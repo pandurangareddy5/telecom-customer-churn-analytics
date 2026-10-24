@@ -1,6 +1,3 @@
-telecom-customer-churn-analytics
-📊 AI-powered Telecom Customer Churn Analytics using Python, SQL, XGBoost, and Power BI. Features data preprocessing, EDA, predictive modeling, business dashboards, and retention insights.
-
 📊 AI-Powered Telecom Customer Churn Prediction & Retention System
 📌 Overview
 This is an end-to-end Data Science project that analyzes telecom customer data to identify churn patterns and support customer retention. The project includes data cleaning, EDA, SQL analysis, machine learning, Power BI dashboard development, business reporting, and presentation creation.
@@ -112,5 +109,6 @@ Real-time database integration
 Advanced ML models
 Automated dashboard refresh
 👨‍💻 Author
-Pandu ranga reddy challa 
+Harishwar Reddy
+
 Aspiring Data Scientist | Data Analyst | ML Engineer
